@@ -58,9 +58,8 @@ The dataset used is **Video Game Sales** (CSV format) containing columns such as
 ---
 
 ## 📸 Dashboard Preview
-
-*(https://github.com/Gagan-Kumar-Profile/Video-Game-Sales-Analysis-Dashboard-Power-bi/blob/main/Video%20Game%20Analysis.png)*  
-`![Video Game Dashboard](path_to_your_image.png)`
+ 
+`![Video Game Dashboard](https://github.com/Gagan-Kumar-Profile/Video-Game-Sales-Analysis-Dashboard-Power-bi/blob/main/Video%20Game%20Analysis.png)`
 
 ---
 
